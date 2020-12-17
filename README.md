@@ -1,4 +1,4 @@
-### Hi there 👋
+### Forward to Software Craftsmanship 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=seungyongshim&show_icons=true)
 
