@@ -2,6 +2,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=seungyongshim&show_icons=true)
 
+팀에서 구인중
+- https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20210026
+
+
 <!--
 **seungyongshim/seungyongshim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
