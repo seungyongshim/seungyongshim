@@ -5,18 +5,22 @@
 팀에서 구인중
 - https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20210026
 
+관심사항
+- Cloud Native Architecture (FaaS, SaaS, PaaS)
+- Clean Architecture
+   - Microservices
+   - Hexagon Layer
+- Functional Programming
+   - IO Monad -> Effect Monad
+   - Immutable, Idempotent
+- Object Oriented Programming
+   - SOLID
+   - Dependency Injection
+   - Abstraction (Interface)
+   - Design Pattern
+- C# 10
+   - Asp.Net Core 6
+   - Entity Framework Core 6
+   - Proto Actor
+   - LanguageExt
 
-<!--
-**seungyongshim/seungyongshim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
