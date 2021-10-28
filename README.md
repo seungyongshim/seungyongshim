@@ -9,9 +9,9 @@
 - Cloud Native Architecture (FaaS, SaaS, PaaS)
 - Clean Architecture
    - Microservices
-   - Hexagon Layer
+   - Hexagonal Architecture
 - Functional Programming
-   - IO Monad -> Effect Monad
+   - IO Monad ≈ Effect Monad
    - Immutable, Idempotent
 - Object Oriented Programming
    - SOLID
