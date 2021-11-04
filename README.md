@@ -6,7 +6,10 @@
 - https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20210026
 
 관심사항
-- Cloud Native Architecture (FaaS, SaaS, PaaS)
+- AWS
+   - ECS, ECR
+   - SNS, SQS
+   - Lambda
 - Clean Architecture
    - Microservices
    - Hexagonal Architecture
