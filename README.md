@@ -7,9 +7,11 @@
 
 관심사항
 - AWS
-   - ECS, ECR
+   - ECS, ECR, Fargate
    - SNS, SQS
-   - Lambda
+   - Lambda, Step Functions
+   - X-Ray
+   - Aurora Serverless
 - Clean Architecture
    - Microservices
    - Hexagonal Architecture
