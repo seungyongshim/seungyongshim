@@ -11,7 +11,7 @@
    - SNS, SQS
    - Lambda, Step Functions
    - X-Ray
-   - Aurora Serverless
+   - Aurora Serverless, DynamoDB
 - Clean Architecture
    - Microservices
    - Hexagonal Architecture
