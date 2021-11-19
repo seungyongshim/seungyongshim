@@ -8,10 +8,10 @@
 관심사항
 - AWS
    - ECS, ECR, Fargate
-   - SNS, SQS
-   - Lambda, Step Functions
-   - X-Ray
+   - SNS, SQS, Lambda, Step Functions
    - Aurora Serverless, DynamoDB
+   - CloudWatch, X-Ray
+   - CloudFormation
 - Clean Architecture
    - Microservices
    - Hexagonal Architecture
