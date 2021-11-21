@@ -2,10 +2,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=seungyongshim&show_icons=true)
 
-팀에서 구인중
+Recruit team member
 - https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20210026
 
-관심사항
+Interest
 - AWS
    - ECS, ECR, Fargate
    - SNS, SQS, Lambda, Step Functions
