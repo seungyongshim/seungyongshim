@@ -5,13 +5,14 @@
 Recruit team member
 - https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20210026
 
-Interest
+Interests
 - AWS
    - ECS, ECR, Fargate
-   - SNS, SQS, Lambda, Step Functions
+   - SNS, SQS, Eventbridge
+   - Lambda, Step Functions
    - Aurora Serverless, DynamoDB
-   - CloudWatch, X-Ray
-   - CloudFormation
+   - CloudWatch, X-Ray, CloudTrail
+   - Serverless Application Model(SAM), CloudFormation
 - Clean Architecture
    - Microservices
    - Hexagonal Architecture
