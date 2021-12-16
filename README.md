@@ -7,6 +7,7 @@ Recruit team member
 
 Interests
 - AWS
+   - EKS(K8s)
    - ECS, ECR, Fargate
    - SNS, SQS, Eventbridge
    - Lambda, Step Functions
