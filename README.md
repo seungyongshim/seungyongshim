@@ -18,8 +18,9 @@ Interests
    - Microservices
    - Hexagonal Architecture
 - Functional Programming
-   - IO Monad ≈ Effect Monad
-   - Immutable, Idempotent
+   - IO Monad ≈ Eff/Aff Monad
+   - Immutable
+   - Idempotent
 - Object Oriented Programming
    - SOLID
    - Dependency Injection
