@@ -3,7 +3,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=seungyongshim&show_icons=true)
 
 Recruit team member
-- https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&reNo=20210026
+- https://career.nexon.com/user/recruit/member/postDetail?joinCorp=NX&reNo=20220096
 
 Interests
 - AWS
