@@ -2,13 +2,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=seungyongshim&show_icons=true)
 
-Recruit team member
-- https://career.nexon.com/user/recruit/member/postDetail?joinCorp=NX&reNo=20220126
-
 Interests
 - AWS
-   - EKS(K8s)
-   - ECS, ECR, Fargate
+   - EKS, ECS, Fargate, ECR
    - SNS, SQS, Eventbridge
    - Lambda, Step Functions
    - Aurora Serverless, DynamoDB
@@ -18,7 +14,8 @@ Interests
    - Microservices
    - Hexagonal Architecture
 - Functional Programming
-   - IO Monad ≈ Eff/Aff Monad
+   - IO Monad 
+   - Category Theory
    - Immutable
    - Idempotent
 - Object Oriented Programming
