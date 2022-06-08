@@ -17,7 +17,7 @@ Interests
    - Microservices
    - Hexagonal Architecture
 - Functional Programming
-   - Algebraic Effect
+   - Algebraic Effects
    - Category Theory
    - Immutable
    - Idempotent
