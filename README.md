@@ -2,9 +2,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=seungyongshim&show_icons=true)
 
-Recruiting
-* https://career.nexon.com/user/recruit/member/postDetail?joinCorp=NX&reNo=20220237
-
 Interests
 - AWS
    - EKS, ECS, Fargate, ECR
