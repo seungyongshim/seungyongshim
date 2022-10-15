@@ -13,6 +13,9 @@ Interests
 - Clean Architecture
    - Microservices
    - Hexagonal Architecture
+- Microservice
+   - Opentelemetry
+   - AWS X-Ray
 - Functional Programming
    - Algebraic Effects
    - Category Theory
