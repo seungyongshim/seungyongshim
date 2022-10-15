@@ -20,11 +20,11 @@ Interests
    - Idempotent
 - Object Oriented Programming
    - SOLID
-   - Dependency Injection
-   - Abstraction (Interface)
+   - Interface
    - Design Pattern
 - C# 10
    - Asp.Net Core 6
+   - Microsoft.Extensions.DependencyInjection
    - Entity Framework Core 6
    - Proto Actor
    - LanguageExt
