@@ -25,10 +25,10 @@ Interests
    - SOLID
    - Interface
    - Design Pattern
-- C# 10
-   - Asp.Net Core 6
+- C# 11
+   - Asp.Net Core 7
    - Microsoft.Extensions.DependencyInjection
-   - Entity Framework Core 6
+   - Entity Framework Core 7
    - Proto Actor
    - LanguageExt
 
