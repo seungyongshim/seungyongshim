@@ -16,15 +16,15 @@ Interests
 - Microservice
    - Opentelemetry
    - AWS X-Ray
+- Object Oriented Programming
+   - Interface
+   - SOLID
+   - Design Pattern
 - Functional Programming
    - Algebraic Effects
    - Category Theory
    - Immutable
    - Idempotent
-- Object Oriented Programming
-   - SOLID
-   - Interface
-   - Design Pattern
 - C# 11
    - Asp.Net Core 7
    - Microsoft.Extensions.DependencyInjection
