@@ -28,7 +28,7 @@ Interests
 - C# 11
    - Asp.Net Core 7
    - Microsoft.Extensions.DependencyInjection
-   - Entity Framework Core 7
+   - Dapper/EF Core
    - Proto Actor
    - LanguageExt
 
