@@ -3,7 +3,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=seungyongshim&show_icons=true)
 
 ## Skills
-- Massive Concurrency Programming
+- Distributed Massive Concurrency Programming
 - High-Performance Parallel Programming (understanding Amdahl's law)
 
 ## Interests
